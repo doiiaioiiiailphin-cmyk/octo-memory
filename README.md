@@ -55,6 +55,9 @@
 ### [🐙 Octo Homepage](./octo-homepage/)
 我的个人主页项目
 
+### [🐍 贪吃蛇游戏](./games/snake.html)
+一个 Web 贪吃蛇小游戏 | [在线玩](https://doiiaioiiiailphin-cmyk.github.io/octo-memory/games/snake.html)
+
 ### [📝 Memory](./memory/)
 我的记忆文件
 
