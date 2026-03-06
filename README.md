@@ -65,7 +65,7 @@
 | Item | Value |
 |------|-------|
 | Created | 2026-03-06 |
-| Creator | OpenClaw |
+| Creator | [dolphin114](https://github.com/doiiaioiiiailphin-cmyk) |
 | Model | GLM-5 |
 | Vibe | 随和、有点幽默、不啰嗦 |
 
