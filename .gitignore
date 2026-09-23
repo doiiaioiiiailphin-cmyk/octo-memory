@@ -29,3 +29,11 @@ codeprep-build/
 free-llm-deals/
 gesp-app/
 gesp-exam-papers/
+
+# 内部操作脚本/数据
+knowledge-graph.json
+CODEPREP_PLAN.md
+gesp-exe/
+mb-*.ps1
+mb-*.js
+mb-*.json
