@@ -12,3 +12,20 @@ Thumbs.db
 .vscode/
 .idea/
 .openclaw/
+
+# 工作区内部文件（含个人信息/内部配置，勿公开）
+MEMORY.md
+USER.md
+TOOLS.md
+HEARTBEAT.md
+AGENTS.md
+SOUL.md
+*.wav
+
+# 本地项目目录
+NeriPlayer/
+YouDub-webui/
+codeprep-build/
+free-llm-deals/
+gesp-app/
+gesp-exam-papers/
