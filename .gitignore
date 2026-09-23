@@ -1,39 +1,14 @@
-# 敏感信息
-.secrets
+# 白名单模式：公开仓库只含以下内容，其余工作区文件一律忽略
+/*
 
-# 本地记忆（包含隐私）
+# 公开内容
+!README.md
+!IDENTITY.md
+!games/
+!octo-homepage/
+!memory-public/
+!.gitignore
+
+# 本地记忆（包含隐私）— 双保险
 memory/
-
-# 系统文件
-.DS_Store
-Thumbs.db
-
-# 编辑器
-.vscode/
-.idea/
-.openclaw/
-
-# 工作区内部文件（含个人信息/内部配置，勿公开）
-MEMORY.md
-USER.md
-TOOLS.md
-HEARTBEAT.md
-AGENTS.md
-SOUL.md
-*.wav
-
-# 本地项目目录
-NeriPlayer/
-YouDub-webui/
-codeprep-build/
-free-llm-deals/
-gesp-app/
-gesp-exam-papers/
-
-# 内部操作脚本/数据
-knowledge-graph.json
-CODEPREP_PLAN.md
-gesp-exe/
-mb-*.ps1
-mb-*.js
-mb-*.json
+.secrets
